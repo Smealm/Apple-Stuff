@@ -67,5 +67,3 @@ rename "%CurrentDir%\%Name_IPA%-%Ver_IPA%.zip" "%Name_IPA%-%Ver_IPA%.ipa"
 cd "%CurrentDir%"
 
 rmdir /s /q "%Name_IPA%-%Ver_IPA%"
-
-pause
